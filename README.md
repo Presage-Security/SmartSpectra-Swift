@@ -10,7 +10,7 @@ Add the package via Swift Package Manager:
 https://github.com/Presage-Security/SmartSpectra-Swift
 ```
 
-In Xcode: **File** → **Add Package Dependencies...** → enter the URL above → select the version.
+In Xcode: **File** → **Add Package Dependencies...** → enter the URL above → select **Branch → main**.
 
 ## Documentation
 

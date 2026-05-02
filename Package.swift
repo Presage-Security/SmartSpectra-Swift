@@ -7,13 +7,13 @@ let package = Package(
     name: "SmartSpectra",
     platforms: [.iOS(.v17)],
     products: [
-        .library(name: "SmartSpectraSwiftSDK", targets: ["SmartSpectraSwiftSDK"]),
+        .library(name: "SmartSpectra", targets: ["SmartSpectra"]),
     ],
     targets: [
         .binaryTarget(
-            name: "SmartSpectraSwiftSDK",
-            url: "https://github.com/Presage-Security/SmartSpectra-Swift/releases/download/v2.1.0/SmartSpectraSwiftSDK.xcframework.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            name: "SmartSpectra",
+            url: "https://github.com/Presage-Security/SmartSpectra-Swift/releases/download/v3.0.0-rc.14/SmartSpectra.xcframework.zip",
+            checksum: "91c1430e6a066703f7b16b45352023fbc98b379bfee2c47dbd1286f572e9b3b3"
         ),
     ]
 )
