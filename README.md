@@ -23,7 +23,7 @@ pin the exact prerelease version when your package manager supports it.
 
 Full integration guide, API reference, and examples:
 
-[docs.physiology.presagetech.com/docs/swift](https://docs.physiology.presagetech.com/docs/swift)
+[smartspectra.presagetech.com/docs/swift](https://smartspectra.presagetech.com/docs/swift)
 
 Sample apps and broader SDK examples live in the main SmartSpectra repository:
 
