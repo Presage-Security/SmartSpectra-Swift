@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SmartSpectra",
-            url: "https://github.com/Presage-Security/SmartSpectra-Swift/releases/download/v3.2.0-rc.8/SmartSpectra.xcframework.zip",
-            checksum: "8515d79402adaf48a2f674a0f8d3525616861fceeb38412b30c42a65b80e6aa3"
+            url: "https://github.com/Presage-Security/SmartSpectra-Swift/releases/download/v3.2.0-rc.9/SmartSpectra.xcframework.zip",
+            checksum: "1292da0ee6188e40df5611aa5b38b719edd9bc9accbc5159b022023ce62291f0"
         ),
     ]
 )
