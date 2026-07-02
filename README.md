@@ -23,7 +23,9 @@ pin the exact prerelease version when your package manager supports it.
 
 Full integration guide, API reference, and examples:
 
-[smartspectra.presagetech.com/docs/swift](https://smartspectra.presagetech.com/docs/swift)
+[Swift quickstart](README.md)
+
+[Swift API reference](docs/api-reference.md)
 
 Sample apps and broader SDK examples live in the main SmartSpectra repository:
 
