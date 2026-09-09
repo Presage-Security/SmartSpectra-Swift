@@ -1,6 +1,6 @@
 # SmartSpectra SDK for iOS
 
-SmartSpectra measures vital signs — heart rate, breathing rate, HRV, and more — from video using a device's camera.
+SmartSpectra measures vital signs — heart rate, breathing rate, HRV, and more — from camera video or frames supplied by your app.
 
 ## Installation
 
@@ -26,6 +26,10 @@ Full integration guide, API reference, and examples:
 [Swift quickstart](https://github.com/Presage-Security/SmartSpectra/blob/main/swift/README.md)
 
 [Swift API reference](https://github.com/Presage-Security/SmartSpectra/blob/main/swift/docs/api-reference.md)
+
+[Custom camera and video input](https://github.com/Presage-Security/SmartSpectra/blob/main/swift/docs/headless-mode.md#use-your-own-camera-or-video-source)
+shows how to use `useCustomInput()` with `CVPixelBuffer` and `CMSampleBuffer`,
+including ownership, timestamps, and switching back to SDK camera capture.
 
 Sample apps and broader SDK examples live in the main SmartSpectra repository:
 
